@@ -1,1 +1,1 @@
-# HAR-Machine-Learning
+# HAR-MACHINE-LEARNING
